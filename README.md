@@ -1,0 +1,2 @@
+# TECH-MINTIC
+Proyecto Mintic
