@@ -1,3 +1,6 @@
 # TECH-MINTIC
 Proyecto Mintic
-Prueba Aleja 
+
+
+
+Maria Elisa: estudiante de desarrollo de software en Bootcamp Henry y Digital House
